@@ -1,5 +1,5 @@
 import java.util.Scanner;
-Class Main{
+class Main{
     public static void main(String[] args) {
         System.out.println("Welcome to Temperature Converter");
         
